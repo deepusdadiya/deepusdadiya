@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello !!<br>
+
+My name is Deep Usdadiya.
+
+As an ambitious, hardworking and a passionate individual about an Agriculture industry, I Deep Usdadiya currently pursuing my Post Graduation Program in Artificial Intelligence and Data Science at Jio Institute. I was working as an Assistant Manager in Reliance Jio Infocomm Limited. I have 2 years of work experience. I was responsible for Strategy and Operation handling in IoT Agriculture. I have been involved in IoT Agriculture with a great passion for Data Science.
+
+- 📫 How to reach me: https://www.linkedin.com/in/deep-usdadiya-1a64aa145/
 <!--
 **deepusdadiya/deepusdadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
