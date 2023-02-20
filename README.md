@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello !!<br>
+### Hello! 👋
 
 My name is Deep Usdadiya.
 
