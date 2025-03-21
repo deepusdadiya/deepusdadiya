@@ -2,13 +2,11 @@
 <h1 align="left">My name is Deep and I'm a Data Scientist from India.</h1>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepusdadiya&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepusdadiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepusdadiya&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="450" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepusdadiya&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false" height="270" width="500" alt="languages graph" />
 </div>
 <br>
-
 
 ###
 <h1 align="left">AI/ML</h1>
