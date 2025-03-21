@@ -38,6 +38,7 @@
 <img align="left" height="85" width="180" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s"  />
 <br><br>
 <br><br>
+<br><br>
 
 <img align="left" height="80" width="120" style="margin-right: 95px;" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg"  />
 <img align="left" height="70" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s"  />
