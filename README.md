@@ -39,6 +39,8 @@
 <img align="left" height="85" width="180" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s"  />
 <br><br>
 <br><br>
+
+
 <img align="left" height="80" width="120" style="margin-right: 95px;" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg"  />
 <img align="left" height="70" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s"  />
 <img align="left" height="80" width="140" style="margin-right: 95px;" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png"  />
@@ -84,7 +86,9 @@
 <img align="left" height="50" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
 <img align="left" height="50" width="140" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
 <br><br>
-<br><br>
+<br>
+
+
 <img align="left" height="60" width="120" style="margin-right: 95px;" src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png"  />
 <img align="left" height="60" width="80" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
 <br><br>
