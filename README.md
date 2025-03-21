@@ -11,12 +11,28 @@
 ###
 <h2 align="left">Backend Development</h2>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
 
 ###
 <h2 align="left">AI/ML</h2>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pytorch&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pandas&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=numpy&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+###
+<h2 align="left">Database</h2>
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redis&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=oracle&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=elasticsearch&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+
 
 ###
 
