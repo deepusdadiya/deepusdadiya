@@ -24,18 +24,18 @@
 ###
 <h2 align="left">Backend Development</h2>
 
-<img height="50" width="130" style="margin-right: 95px;" src="https://hackernoon.imgix.net/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-y42k312q.png"/>
+<img height="50" width="130" src="https://hackernoon.imgix.net/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-y42k312q.png"   />
 <br>
 
 ###
 <h2 align="left">Database</h2>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redis&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=oracle&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=elasticsearch&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+<img align="left" height="60" width="150" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s"  />
+<img align="left" height="55" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"  />
+<img align="left" height="85" width="180" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s"  />
+<img align="left" height="80" width="120" style="margin-right: 95px;" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg"  />
+<img align="left" height="70" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s"  />
+<img height="80" width="140" style="margin-right: 95px;" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png"  />
 <br><br>
 
 ###
