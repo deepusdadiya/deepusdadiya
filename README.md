@@ -12,19 +12,20 @@
 ###
 <h2 align="left">AI/ML</h2>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=numpy&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pandas&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=scikit-learn&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pytorch&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=openai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-<br><br>
+<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeXMlr8a_IdEZW_7CnTGJI24OmPIi9-IW5Q&s"  />
+<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s"  />
+<img align="left" height="60" width="180" style="margin-right: 95px;" src="https://www.askpython.com/wp-content/uploads/2021/03/tensorflow_logo-1024x344.png.webp"  />
+<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
+<img align="left" height="60" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
+<img height="50" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
+<br>
+
 
 ###
 <h2 align="left">Backend Development</h2>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-<br><br>
+<img height="50" width="130" style="margin-right: 95px;" src="https://hackernoon.imgix.net/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-y42k312q.png"/>
+<br>
 
 ###
 <h2 align="left">Database</h2>
@@ -74,6 +75,7 @@
 <img align="left" height="50" width="140" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
 <img align="left" height="60" width="120" style="margin-right: 95px;" src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png"  />
 <img align="left" height="60" width="80" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
+<br><br>
 <br><br>
 
 
