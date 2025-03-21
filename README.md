@@ -19,11 +19,10 @@
 <br>
 
 
-<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
-<img align="left" height="60" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
-<img align="left" height="50" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
-<br><br>
-<br><br>
+<img align="left" height="70" width="120" style="margin-right: 95px;" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
+<img align="left" height="53" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
+<img height="40" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
+<br>
 
 ###
 <h1 align="left">Backend Development</h1>
