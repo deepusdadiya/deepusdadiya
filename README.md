@@ -9,10 +9,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 <h2 align="left">Backend Development</h2>
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin)
@@ -34,3 +30,5 @@
 </div>
 
 ###
+
+<img align="centre" height="150" src="https://i.imgflip.com/65efzo.gif"  />
