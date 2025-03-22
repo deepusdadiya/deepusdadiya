@@ -12,13 +12,16 @@
 ###
 <h1 align="left">AI/ML</h1>
 
-<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeXMlr8a_IdEZW_7CnTGJI24OmPIi9-IW5Q&s"  />
-<img align="left" height="60" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s"  />
-<img align="left" height="60" width="180" style="margin-right: 95px;" src="https://www.askpython.com/wp-content/uploads/2021/03/tensorflow_logo-1024x344.png.webp"  />
-<br><br><br><br>
-<img align="left" height="70" width="120" style="margin-right: 95px;" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
-<img align="left" height="53" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
-<img height="40" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
+<div align="left">
+  <img align="left" height="60" width="120" style="margin-right: 32rem;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeXMlr8a_IdEZW_7CnTGJI24OmPIi9-IW5Q&s"  />
+  <img align="left" height="60" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s"  />
+  <img align="left" height="60" width="180" style="margin-right: 95px;" src="https://www.askpython.com/wp-content/uploads/2021/03/tensorflow_logo-1024x344.png.webp"  />
+  <br><br><br><br>
+  <img align="left" height="70" width="120" style="margin-right: 95px;" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
+  <img align="left" height="53" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
+  <img height="40" width="120" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
+</div>
+<br>
 
 
 ###
