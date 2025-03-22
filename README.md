@@ -81,9 +81,11 @@
 <img align="left" height="50" width="160" style="margin-right: 95px;" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
 <img align="left" height="50" width="120" style="margin-right: 95px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
 <img align="left" height="50" width="140" style="margin-right: 95px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
-<br><br><br>
+
+<br><br><br><br>
+
 <img align="left" height="60" width="120" style="margin-right: 95px;" src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png"  />
-<img align="left" height="60" width="80" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
+<img height="65" width="100" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
 <br><br>
 <br><br>
 
