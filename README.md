@@ -89,5 +89,3 @@
 
 <img align="left" height="60" width="120" src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png"  />
 <img height="65" width="100" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
-<br><br>
-<br><br>
