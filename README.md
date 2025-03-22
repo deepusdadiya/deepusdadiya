@@ -18,7 +18,7 @@
   <img align="left" height="60" width="180" src="https://www.askpython.com/wp-content/uploads/2021/03/tensorflow_logo-1024x344.png.webp"  />
   <br><br><br><br>
   <img align="left" height="70" width="120" src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png"  />
-  <img align="left" height="53" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
+  <img align="left" height="60" width="120" src="https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.png"  />
   <img height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"  />
 </div>
 <br>
