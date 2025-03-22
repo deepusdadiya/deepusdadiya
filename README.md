@@ -88,8 +88,3 @@
 <img height="65" width="100" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
 <br><br>
 <br><br>
-
-
-
-###
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
