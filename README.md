@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Deep Usdadiya!</h1>
 <h1 align="left">A passionate Data Scientist from India.</h1>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 ###
 <div align="center">
@@ -82,7 +85,7 @@
 ###
 <h1 align="left">Data Visualization</h1>
 
-<img align="left" height="75" width="130" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png"  />
+<img align="left" height="75" width="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSWaZl45UCJvF3YEKfLS4LemAYg9sPDDYm9L1sXL4vA7kpV6BNL-SWqYu_yQwQ3uJMow&usqp=CAU"  />
 <img align="left" height="75" width="110" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"  />
 <img align="left" height="75" width="110" src="https://www.pngall.com/wp-content/uploads/15/Excel-Logo-PNG-Cutout.png"  />
 <img align="left" height="75" width="160" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"  />
@@ -109,7 +112,7 @@
 
 <br><br><br><br>
 
-<img align="left" height="60" width="120" src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png"  />
+<img align="left" height="80" width="140" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
 <img height="65" width="100" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
 <br><br>
 
