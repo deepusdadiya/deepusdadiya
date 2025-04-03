@@ -26,9 +26,9 @@
 <a href="https://instagram.com/_deep_usdadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deep_usdadiya" height="30" width="40" /></a>
 <br><br>
   
-- 👨‍💻 All of my projects are available at https://github.com/deepusdadiya?tab=repositories
+<h3 align="left"> - 👨‍💻 All of my projects are available at https://github.com/deepusdadiya?tab=repositories </h3>
 
-- 📫 How to reach me **deepusdadiyaofficial@gmail.com**
+<h3 align="left"> - 📫 How to reach me deepusdadiyaofficial@gmail.com </h3>
 
 </p>
 <br>
