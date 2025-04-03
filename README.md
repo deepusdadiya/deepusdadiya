@@ -106,15 +106,14 @@
 ###
 <h1 align="left">Other Tools</h1>
 
-<img align="left" height="50" width="160" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
-<img align="left" height="50" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
-<img align="left" height="50" width="140" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
-
+<div align="left">
+  <img align="left" height="50" width="160" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
+  <img align="left" height="40" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
+  <img align="left" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
+  <img align="left" height="50" width="110" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
+  <img align="left" height="50" width="110" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
+</div>
 <br><br><br><br>
-
-<img align="left" height="80" width="140" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
-<img height="65" width="100" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
-<br><br>
 
 
 <img align="left" height="35" width="170" src="https://komarev.com/ghpvc/?username=deepusdadiya&label=Profile%20views&color=0e75b6&style=flat"  />
