@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepusdadiya&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="350" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepusdadiya&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false" height="220" width="350" alt="languages graph" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepusdadiya&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepusdadiya&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 
