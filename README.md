@@ -56,16 +56,16 @@
 <h1 align="left">Database</h1>
 
 <!-- Row 1 -->
-<img align="left" height="60" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" />
-<img align="left" height="55" width="120" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
-<img align="left" height="85" width="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" />
-
+<img align="left" height="55" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" />
+<img align="left" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
+<img align="left" height="65" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" />
+<img align="left" height="70" width="100" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg" />
+<img align="left" height="70" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s" />
+<img height="70" width="120" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" />
 <br><br><br><br>
 
 <!-- Row 2 (adjusted heights) -->
-<img align="left" height="80" width="120" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg" />
-<img align="left" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s" />
-<img height="80" width="140" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" />
+
 
 ###
 <h1 align="left">Framework</h1>
