@@ -1,15 +1,11 @@
 <h1 align="left">Hi 👋, I'm Deep Usdadiya!</h1>
 <h1 align="left">A passionate Data Scientist from India.</h1>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepusdadiya&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="350" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepusdadiya&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false" height="220" width="350" alt="languages graph" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepusdadiya&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepusdadiya&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&locale=en&hide_border=false" width="350" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepusdadiya&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&hide_border=false" height="220" width="350" alt="languages graph" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepusdadiya" alt="GitHub Streak" /></a>
 </div>
 
 
