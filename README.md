@@ -11,7 +11,6 @@
 
 ###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepusdadiya" alt="deepusdadiya" /></a> </p>
-<br>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -43,71 +42,70 @@
 </div>
 <br>
 
-
 ###
-<h1 align="left">Backend Development</h1>
-
-<img height="50" width="130" src="https://hackernoon.imgix.net/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-y42k312q.png"   />
-
-
-###
-
 <h1 align="left">Database</h1>
 
-<!-- Row 1 -->
-<img align="left" height="55" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" />
-<img align="left" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
-<img align="left" height="65" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" />
-<img align="left" height="70" width="100" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg" />
-<img align="left" height="70" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s" />
-<img height="70" width="120" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" />
-<br><br><br><br>
-
-<!-- Row 2 (adjusted heights) -->
-
+<div align="left">
+  <img align="left" height="55" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" />
+  <img align="left" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
+  <img align="left" height="65" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" />
+  <img align="left" height="70" width="100" src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo.jpg" />
+  <img align="left" height="70" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aNoirf5vZWKhPlo4-f9uWZVFKnZwR1cBgw&s" />
+  <img height="70" width="120" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" />
+</div>
+<br>
 
 ###
+
+<h1 align="left">Backend Development</h1>
+
+<div align="left">
+  <img height="40" width="120" src="https://hackernoon.imgix.net/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-y42k312q.png"   />
+</div>
+
+###
+
 <h1 align="left">Framework</h1>
 
 <div align="left">
-  <img align="left" height="60" width="180" src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png"  />
-  <img align="left" height="60" width="180" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"  />
+  <img align="left" height="50" width="150" src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png"  />
+  <img align="left" height="50" width="150" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"  />
 </div>
 <br><br>
-<br><br>
-
 
 ###
+
 <h1 align="left">Data Visualization</h1>
 
-<img align="left" height="75" width="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSWaZl45UCJvF3YEKfLS4LemAYg9sPDDYm9L1sXL4vA7kpV6BNL-SWqYu_yQwQ3uJMow&usqp=CAU"  />
-<img align="left" height="75" width="110" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"  />
-<img align="left" height="75" width="110" src="https://www.pngall.com/wp-content/uploads/15/Excel-Logo-PNG-Cutout.png"  />
-<img align="left" height="75" width="160" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"  />
+<div align="left">
+  <img align="left" height="55" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSWaZl45UCJvF3YEKfLS4LemAYg9sPDDYm9L1sXL4vA7kpV6BNL-SWqYu_yQwQ3uJMow&usqp=CAU"  />
+  <img align="left" height="55" width="100" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"  />
+  <img align="left" height="55" width="100" src="https://www.pngall.com/wp-content/uploads/15/Excel-Logo-PNG-Cutout.png"  />
+  <img align="left" height="55" width="120" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"  />
+</div>
 <br><br>
-<br><br>
-
 
 ###
 <h1 align="left">DevOps</h1>
 
-<img align="left" height="45" width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png"  />
-<img align="left" height="45" width="210" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png"  />
-<img align="left" height="45" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJks4IMajtORvOHhdqiYyOm7PNNpDEezLcA&s"  />
+<div align="left">
+  <img align="left" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png"  />
+  <img align="left" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png"  />
+  <img align="left" height="40" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJks4IMajtORvOHhdqiYyOm7PNNpDEezLcA&s"  />
+</div>
 <br><br>
-<br><br>
-
 
 ###
 <h1 align="left">Other Tools</h1>
 
 <div align="left">
-  <img align="left" height="50" width="160" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
+  <img align="left" height="40" width="120" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
   <img align="left" height="40" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
-  <img align="left" height="45" width="120" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
-  <img align="left" height="60" width="110" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
-  <img align="left" height="60" width="110" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
+  <img align="left" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
+  <img align="left" height="43" width="95" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"  />
+  <img align="left" height="43" width="95" src="https://media.licdn.com/dms/image/v2/D4D12AQGwWvS7_Wtb1A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689944341410?e=2147483647&v=beta&t=JFrVf-u4fXXOaMnEQJ02pDHg2V9gcOBf00AiqL4AXaY"  />
 </div>
+
 <br><br><br><br>
 
 
