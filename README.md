@@ -22,9 +22,9 @@
 <a href="https://instagram.com/_deep_usdadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deep_usdadiya" height="30" width="40" /></a>
 <br><br>
   
-<h3 align="left"> - 👨‍💻 All of my projects are available at https://github.com/deepusdadiya?tab=repositories </h3>
+<h3 align="left"> - 👨‍💻 All of my projects are available at: https://github.com/deepusdadiya?tab=repositories </h3>
 
-<h3 align="left"> - 📫 How to reach me deepusdadiyaofficial@gmail.com </h3>
+<h3 align="left"> - 📫 How to reach me: deepusdadiyaofficial@gmail.com </h3>
 
 </p>
 <br>
@@ -105,9 +105,9 @@
 <div align="left">
   <img align="left" height="50" width="160" src="https://www.shanebart.com/wp-content/uploads/2019/05/5k4h36j3h4j.png"  />
   <img align="left" height="40" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"  />
-  <img align="left" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
-  <img align="left" height="50" width="110" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
-  <img align="left" height="50" width="110" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
+  <img align="left" height="45" width="120" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"  />
+  <img align="left" height="60" width="110" src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png"  />
+  <img align="left" height="60" width="110" src="https://cdn.shortpixel.ai/spai/q_lossy+w_1024+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"  />
 </div>
 <br><br><br><br>
 
